@@ -1,0 +1,3 @@
+Adicionado um arquivo novo na branch main.
+Esse arquivo foi criado no início dentro da estrutuda do git e não foi criado local.
+Teste para baixar o arquivo novo do git.
