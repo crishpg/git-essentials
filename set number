@@ -1,0 +1,17 @@
+[1mdiff --cc merge-conflit.txt[m
+[1mindex c32737c,68a1560..0000000[m
+[1m--- a/merge-conflit.txt[m
+[1m+++ b/merge-conflit.txt[m
+[36m@@@ -1,5 -1,5 +1,11 @@@[m
+  line 1 by github[m
+  line 2 by github[m
+[32m++<<<<<<< HEAD[m
+[32m +line three by github local[m
+[32m +line 4 by github[m
+[31m- line 5 by github[m
+[32m++line 5 by github[m
+[32m++=======[m
+[32m+ line 3 by github[m
+[32m+ line 4 by github[m
+[32m+ line 5 by github[m
+[32m++>>>>>>> 3398a93ad6e7e7700c4b7ddcde4d5fbc75f9af6a[m
