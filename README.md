@@ -3,12 +3,12 @@
 # Adicionado um texto dentro do Readme.MD via github
 
 
-Comandos Git Essenciais: Guia Completo
+#Comandos Git Essenciais: Guia Completo
 Configuração
 git config --global user.name "Seu Nome": Define seu nome de usuário global para commits.
 git config --global user.email "Seu Email": Define seu email global para commits.
 git config --global core.editor "Seu Editor de Texto": Define o editor de texto padrão para mensagens de commit.
-Gerenciando Repositórios
+#Gerenciando Repositórios
 git init: Inicializa um novo repositório Git no diretório atual.
 git clone <url>: Clona um repositório remoto para o seu computador.
 git add <arquivo>: Adiciona arquivos ao índice de staging para serem comitados.
